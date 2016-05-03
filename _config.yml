@@ -1,0 +1,28 @@
+name: EthanE
+favicon: null
+layout_spectrum: 0.0791017699521035
+typography_spectrum: 0.39442210854031146
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.21926936670206487
+  lightness: 0.5249530512373894
+  saturation: 0.8749258562456816
+  rhythmicContrast: 0.018839505966752768
+purpose: []
